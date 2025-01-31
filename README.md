@@ -22,8 +22,8 @@ This is a template for Lokio, you can contribute here.
 
 | Boilerplate | Contributors |
 |------|-------------|
-| Next Monolith | Wahyu A.A |
-| Next Frontend | Wahyu A.A |
-| Astro Frontend | Wahyu A.A |
-| Hono Backend | Wahyu A.A |
-| Golang Backend | Wahyu A.A |
+| Next Monolith | Wahyu A. A |
+| Next Frontend | Wahyu A. A |
+| Astro Frontend | Wahyu A. A |
+| Hono Backend | Wahyu A. A |
+| Golang Backend | Wahyu A. A |
