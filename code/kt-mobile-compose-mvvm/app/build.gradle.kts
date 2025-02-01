@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "mataraman.dev"
+    namespace = "example.dev"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "mataraman.dev"
+        applicationId = "example.dev"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -98,4 +98,5 @@ dependencies {
     // Debugging Library
     debugImplementation(libs.library)
     releaseImplementation(libs.library.no.op)
+
 }
