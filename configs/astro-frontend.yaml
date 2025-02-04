@@ -10,7 +10,6 @@ package: your-package
 dir:
   # client
   hook: src/hooks
-  shared: src/shared
   call: src/services
   component: src/interfaces/components
   screen: src/interfaces/screens
