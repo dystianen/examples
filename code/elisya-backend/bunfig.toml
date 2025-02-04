@@ -1,0 +1,13 @@
+# scripts to run before `bun run`-ing a file or script
+# register plugins by adding them to this list
+preload = ["./preload.ts"]
+
+# Set the log level. This can be one of "debug", "warn", or "error".
+# "debug" | "warn" | "error"
+logLevel = "debug"
+
+# Folder test
+[test]
+root = "./tests"
+# always enable coverage
+coverage = true
