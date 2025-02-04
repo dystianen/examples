@@ -13,9 +13,6 @@ const r_auth = new Elysia({ prefix: "/auth" })
 		}),
 	)
 	.use(bearer())
-	.onBeforeHandle((e) => {
-		// console.log(e)
-	})
 	.post(
 		"/sign-in",
 		async ({ jwt, cookie: { auth }, body }) => {
