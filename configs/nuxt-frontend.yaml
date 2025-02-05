@@ -9,4 +9,4 @@ package: your-package
 # Directory
 dir:
   # client
-  hook: hooks
+  hook: src/hooks
