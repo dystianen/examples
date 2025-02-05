@@ -10,7 +10,3 @@ package: your-package
 dir:
   # client
   hook: hooks
-  call: call
-  component: interfaces/components
-  screen: interfaces/screens
-  layout: interfaces/layouts
