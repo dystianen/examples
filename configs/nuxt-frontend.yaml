@@ -1,0 +1,16 @@
+# Lokio Configuration File
+# Author: Lokio
+# Github: https://github.com/any-source/lokio
+# Documentation: https://lokio.dev
+
+name: nuxt-frontend
+package: your-package
+
+# Directory
+dir:
+  # client
+  hook: hooks
+  call: call
+  component: interfaces/components
+  screen: interfaces/screens
+  layout: interfaces/layouts
